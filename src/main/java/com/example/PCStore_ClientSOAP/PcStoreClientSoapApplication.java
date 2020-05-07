@@ -105,7 +105,7 @@ public class PcStoreClientSoapApplication {
 
 						}
 
-
+						else {System.err.println("Товара не существует");}
 
 
 						break;
